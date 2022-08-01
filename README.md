@@ -1,4 +1,6 @@
-# r5rs
+# WIP - WORK IN PROGRESS
+
+# r5rs - purely functional
 
 This the source for the Racket packages: "r5rs", "r5rs-doc", "r5rs-lib".
 
